@@ -26,7 +26,7 @@
 
 ## Statistics
 
-![httpmarco](https://github-readme-stats.vercel.app/api?username=httpmarco&show_icons=true&locale=en)
+![httpmarco](https://github-readme-stats.vercel.app/api?username=julixndev&show_icons=true&locale=en)
 
 <br />
 
