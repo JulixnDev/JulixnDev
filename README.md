@@ -6,7 +6,7 @@
   <p align="center">
     A german developer
     <br />
-    <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
+    <a href="https://discord.com/channels/@me/836871120636215327">Discord</a>
     ·
     <a href="https://github.com/JulixnDev?tab=repositories">Repositories</a>
   <br />
