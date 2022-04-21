@@ -1,15 +1,13 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Julixn</h3>
+  <h3 align="center">Hi, I'm Julixn</h3>
 
   <p align="center">
-    A german developer
-    <br />
-    <a href="https://discordapp.com/users/836871120636215327">Discord</a>
-    ·
-    <a href="https://github.com/JulixnDev?tab=repositories">Repositories</a>
-  <br />
+    I'm 14 years old. <br>
+    I code since about 5 years.
+  </p>
+    <br>
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
   <img align="center" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
@@ -19,12 +17,20 @@
   <img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   <img align="center" alt="GitHub" width="26px" src="https://icon-library.com/images/github_png63.png" />
   </div>
-  </p> 
-</p>
+  <hr>
+  <h3 align="center">Links</h3>
+  <p align="center">
+    <a href="https://discordapp.com/users/836871120636215327">Discord</a>
+    ·
+    <a href="https://github.com/JulixnDev?tab=repositories">Repositories</a>
+  </p>
 
-<br />
+<hr>
 
-## Statistics
+<div align="center">
+  <h3>Statistics</h3>
 
-![julixndev](https://github-readme-stats.vercel.app/api?username=julixndev&show_icons=true&locale=en)
+  ![julixndev](https://github-readme-stats.vercel.app/api?username=julixndev&show_icons=true&locale=en)
+</div>
+
 
