@@ -8,7 +8,7 @@
     <br />
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
-    <a href="https://github.com/HttpMarco?tab=repositories">Repositories</a>
+    <a href="https://github.com/JulixnDev?tab=repositories">Repositories</a>
   <br />
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
@@ -28,10 +28,3 @@
 
 ![julixndev](https://github-readme-stats.vercel.app/api?username=julixndev&show_icons=true&locale=en)
 
-<br />
-
- [![Discord][discord-shield]][discord-url]
-
- 
-[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
-[discord-url]: https://discord.gg/Gv4B77xqCT
