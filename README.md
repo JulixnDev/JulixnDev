@@ -4,8 +4,8 @@
   <h3 align="center">Hi, I'm Julixn</h3>
 
   <p align="center">
-    I'm 14 years old <br>
-    and I code since about 5 years.
+    I'm 15 years old <br>
+    and I code since about 6 years.
   </p>
     <br>
     <div align="center">
