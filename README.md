@@ -2,7 +2,7 @@
 <p align="center">
   <h3 align="center">Hi, I'm Julian</h3>
   <p align="center">
-    I code since about 7 years.
+    I code since about 8 years.
   </p>
     <div align="center">
       <h4>Programming and Script Languages</h4>
